@@ -2,7 +2,7 @@
 
 //half width of default canvas(1200mm)
 var canvas;
-const canvasID = '571085_Übung_14';
+const canvasID = 'main';
 const hw = 1200/2;
 //width and height for Canvas
 var w =  Math.max(document.documentElement.clientWidth || 0, window.innerWidth || 0);
